@@ -1,3 +1,4 @@
+Project Link - https://github.com/ChetanChhetariya/Weatherly
 # Weatherly
 Overview - This is a simple weatherly app that provides current weather information based on user input. It utilizes the OpenWeather API to fetch weather data and displays it in a user-friendly interface.
 
